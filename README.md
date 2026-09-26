@@ -11,23 +11,23 @@ I am currently working on academic and professional projects that integrate arti
 
 # 📈 GitHub Stats:
 
-<!-- GitHub Stats + Streak (Side-by-side, Native 1:1 Scale) -->
+<!-- GitHub Stats + Streak (Fits Profile Overview Width) -->
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=450"
+    src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=410"
   />
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false&card_width=450&card_height=195"
+    src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false&card_width=410&card_height=195"
   />
 </p>
 
 <br/>
 
-<!-- Languages Card (Exact Combined Width + 3 Spaces) -->
+<!-- Languages Card (Exact Combined Width: 410 + 410 + 3 spaces = ~840) -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&layout=normal&hide_border=false&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&border_color=ffffff&theme=dark&card_width=920"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&layout=normal&hide_border=false&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&border_color=ffffff&theme=dark&card_width=840"
   />
 </p>
 
