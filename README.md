@@ -11,9 +11,14 @@ I am currently working on academic and professional projects that integrate arti
 
 # 📈 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Overall Stats -->
+<img src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="600" height="250"/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false" width="600" height="250"/>
+
+<!-- Most Used Languages (extended + clearer colors) -->
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&layout=compact&hide_border=false&langs_count=10&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=facc15&border_color=ffffff" width="600" height="300"/>
 
 
 
