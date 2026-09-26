@@ -12,23 +12,23 @@ I am currently working on academic and professional projects that integrate arti
 
 # 📈 GitHub Stats:
 
-<!-- GitHub Stats + Streak -->
+<!-- GitHub Stats + Streak (Side by Side) -->
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=440"
+    src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=410"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img
-    src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false&card_width=440&card_height=195"
+    src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false&card_width=410&card_height=195"
   />
 </p>
 
 <br/>
 
-<!-- Languages card - separate -->
+<!-- Languages card -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&layout=normal&hide_border=false&langs_count=10&card_width=920&title_color=ffffff&text_color=ffffff&icon_color=facc15&border_color=ffffff&theme=dark"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&layout=normal&hide_border=false&langs_count=10&card_width=840&title_color=ffffff&text_color=ffffff&icon_color=facc15&border_color=ffffff&theme=dark"
   />
 </p>
 
