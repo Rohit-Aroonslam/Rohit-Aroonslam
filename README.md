@@ -12,28 +12,23 @@ I am currently working on academic and professional projects that integrate arti
 
 # 📈 GitHub Stats:
 
-<!-- Side-by-side Stats Grid -->
-<table border="0" align="center">
-  <tr>
-    <td align="center" style="border: none;">
-      <img
-        src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=440"
-      />
-    </td>
-    <td align="center" style="border: none;">
-      <img
-        src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false&card_width=440&card_height=195"
-      />
-    </td>
-  </tr>
-</table>
+<!-- GitHub Stats + Streak (Side by Side, No Outer Table Border) -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=440"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false&card_width=440&card_height=195"
+  />
+</p>
 
 <br/>
 
-<!-- Languages Card (Wider Card Canvas, Native Font/Bar Height) -->
+<!-- Languages Card -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&layout=normal&hide_border=false&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&border_color=ffffff&theme=dark&card_width=920"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&layout=normal&hide_border=false&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&border_color=ffffff&theme=dark&card_width=900"
   />
 </p>
 
