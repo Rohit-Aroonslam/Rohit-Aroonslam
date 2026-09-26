@@ -12,20 +12,25 @@ I am currently working on academic and professional projects that integrate arti
 
 # 📈 GitHub Stats:
 
-<!-- Row with Stats + Streak side by side, equal size -->
+<!-- GitHub Stats + Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" height="250" style="margin-right:2%"/>
-  <img src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false" width="48%" height="250" style="margin-left:2%"/>
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=440"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false&card_width=440&card_height=195"
+  />
 </p>
 
-<!-- Spacer -->
 <br/>
 
-<!-- Languages card full width (spans both tables + gap) -->
+<!-- Languages card - separate -->
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&layout=compact&hide_border=false&langs_count=10&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=facc15&border_color=ffffff" width="98%" height="300"/>
+  <img 
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&layout=normal&hide_border=false&langs_count=10&card_width=920&title_color=ffffff&text_color=ffffff&icon_color=facc15&border_color=ffffff&theme=dark"
+  />
 </p>
-
 
 
 ---
