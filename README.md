@@ -11,15 +11,9 @@ I am currently working on academic and professional projects that integrate arti
 
 # 📈 GitHub Stats:
 
-<!-- Overall Stats -->
-<!-- Overall Stats -->
-<img src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="850" height="250"/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=true" width="850" height="250"/>
-
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&layout=compact&theme=dark&hide_border=true&langs_count=10" width="850" height="350"/>
+![](https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
