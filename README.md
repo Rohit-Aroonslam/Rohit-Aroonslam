@@ -11,9 +11,9 @@ I am currently working on academic and professional projects that integrate arti
 
 # 📈 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&width=400)<br/>
+![](https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false&width=400)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&width=400)
 
 ---
 # 🔎 Profile Views:
