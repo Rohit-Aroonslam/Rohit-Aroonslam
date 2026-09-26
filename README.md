@@ -11,14 +11,21 @@ I am currently working on academic and professional projects that integrate arti
 
 # 📈 GitHub Stats:
 
-<!-- Overall Stats -->
-<img src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="600" height="250"/>
+# 📈 GitHub Stats:
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false" width="600" height="250"/>
+<!-- Row with Stats + Streak side by side -->
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" height="250"/>
+  <img src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false" width="49%" height="250"/>
+</p>
 
-<!-- Most Used Languages (extended + clearer colors) -->
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&layout=compact&hide_border=false&langs_count=10&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=facc15&border_color=ffffff" width="600" height="300"/>
+<!-- Spacer -->
+<br/>
+
+<!-- Languages card full width -->
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&layout=compact&hide_border=false&langs_count=10&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=facc15&border_color=ffffff" width="98%" height="300"/>
+</p>
 
 
 
