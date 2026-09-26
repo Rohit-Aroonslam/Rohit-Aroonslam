@@ -11,11 +11,19 @@ I am currently working on academic and professional projects that integrate arti
 
 # 📈 GitHub Stats:
 
-<img src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
-<br/>
-<img src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false" width="400"/>
-<br/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400"/>
+<p align="center">
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="500" height="200"/>
+  <br/>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false" width="500" height="200"/>
+  <br/>
+
+  <!-- Most Used Languages (high contrast) -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&layout=compact&hide_border=false&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000&langs_count=6" width="500" height="250"/>
+</p>
+
 
 ---
 # 🔎 Profile Views:
