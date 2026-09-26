@@ -12,13 +12,15 @@ I am currently working on academic and professional projects that integrate arti
 # 📈 GitHub Stats:
 
 <!-- Overall Stats -->
-<img src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="800" height="250"/>
+<!-- Overall Stats -->
+<img src="https://github-readme-stats.shion.dev/api?username=Rohit-Aroonslam&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="850" height="250"/>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=false" width="800" height="250"/>
+<img src="https://streak-stats.demolab.com/?user=Rohit-Aroonslam&theme=dark&hide_border=true" width="850" height="250"/>
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&layout=compact&hide_border=false&theme=dark&langs_count=10" width="800" height="300"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit-Aroonslam&layout=compact&theme=dark&hide_border=true&langs_count=10" width="850" height="350"/>
+
 
 
 ---
